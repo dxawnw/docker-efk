@@ -9,9 +9,13 @@ EFK setup with docker, docker-compose.
 
 ## Usege
 
-Using docker-machine
+Using docker-compose
 
+```sh
 ```shdocker-compose build
+```
+
+
 ```sh
 docker-compose up
 ```
