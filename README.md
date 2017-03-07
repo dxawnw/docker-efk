@@ -31,5 +31,3 @@ open http://127.0.0.1:5601
 # if use docker-machine
 open http://"$(docker-machine ip dev)":5601
 ```
-
-If you use docker-toolbox, localhost is docker-machine ip.
