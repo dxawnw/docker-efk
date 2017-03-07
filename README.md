@@ -7,6 +7,12 @@ EFK setup with docker, docker-compose.
 - docker
 - docker-compose
 
+git clone https://github.com/dxawnw/docker-efk.git
+
+cd docker-efd
+
+chmod +x *.sh
+
 ## Usege
 
 Using docker-compose
