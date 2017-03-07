@@ -12,7 +12,7 @@ EFK setup with docker, docker-compose.
 Using docker-compose
 
 ```sh
-```shdocker-compose build
+shdocker-compose build
 ```
 
 
