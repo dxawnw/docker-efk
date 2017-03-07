@@ -11,11 +11,7 @@ EFK setup with docker, docker-compose.
 
 Using docker-machine
 
-```sh
-docker-machine create -d virtualbox dev
-eval "$(docker-machine env dev)"
-```
-
+```shdocker-compose build
 ```sh
 docker-compose up
 ```
